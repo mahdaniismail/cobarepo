@@ -1,0 +1,16 @@
+git init
+git remote
+git remote -v
+git status
+git add .
+git commit -m "Ujian Online Ku"
+git status
+   optional saja ooo
+   graph
+   git log --graph --oneline --decorate --all
+   *f1 close*
+   git push
+
+git remote add <project-name/name> <url>
+git push <name>
+git push --set-upstream origin master
