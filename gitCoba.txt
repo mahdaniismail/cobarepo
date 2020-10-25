@@ -5,6 +5,7 @@ git status
 git add .
 git commit -m "Ujian Online Ku"
 git status
+git push
    optional saja ooo
    graph
    git log --graph --oneline --decorate --all
